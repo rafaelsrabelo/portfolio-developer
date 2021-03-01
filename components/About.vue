@@ -8,7 +8,7 @@
       <h1 class="display-4">Hello,</h1>
       <p class="lead">
       I am {{ name }}, from Ceará, a student of systems analysis and development. I
-      work as a junior web developer and i'm passionate about the front-end
+      work as a junior web developer and I'm passionate about the front-end
       universe.
       </p>
       <h3><strong>Technologies</strong></h3>
